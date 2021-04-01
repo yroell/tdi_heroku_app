@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 from alpha_vantage.timeseries import TimeSeries
 from datetime import datetime
 	
-ts = TimeSeries(key="6PKEC3FBHZBWS239")
+ts = TimeSeries(key="")
 page = st.sidebar.text_input("Choose a company", 'GOOGL')
 input_month = st.sidebar.text_input("Choose a month", 3)
 input_year = st.sidebar.text_input("Choose a year", 2021)
