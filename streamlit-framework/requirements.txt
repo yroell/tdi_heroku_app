@@ -1,0 +1,13 @@
+pandas
+streamlit
+plotly
+python-dotenv
+altair
+bokeh
+requests
+numpy
+seaborn
+matplotlip
+scikit_learn
+alpha_vantage
+datetime
